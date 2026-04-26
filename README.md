@@ -174,6 +174,8 @@ chosen = random.sample(all_test_images, 5)
 
 ## 🖥️ Streamlit App
 
+Link: https://masked-autoencoder-bn6zjagpcm7kq88rnykkdi.streamlit.app/
+
 The interactive app lets you experiment with the trained model in real time.
 
 **Features:**
